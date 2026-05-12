@@ -1,6 +1,6 @@
 # 📊 IS107 — Laboratory Work 6
 ## Detecting Anomalies in Time-Series Data Using Power BI
-
+https://drive.google.com/drive/folders/1tgTpODeO_7Bh4mvYUtPCVX1MJfAEXFnc?usp=drive_link
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI%20Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Complete-22C55E?style=for-the-badge)
 ![Dataset](https://img.shields.io/badge/Dataset-tourism--details.csv-38BDF8?style=for-the-badge)
